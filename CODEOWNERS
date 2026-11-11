@@ -1,0 +1,19 @@
+# CODEOWNERS
+#
+# Who reviews changes to which files. Nobody is assigned yet: this file is
+# intentionally blank until the team that owns this repo fills it in.
+#
+# How we use it:
+#   - List the team (not individuals) that owns each path, e.g.
+#       *            @<org>/<team>
+#       /docs/       @<org>/<docs-team>
+#   - Teams need at least write access to the repo, or the entry is ignored.
+#   - The last matching line wins, so put broad patterns first and
+#     specific paths after them.
+#   - Prefer a few broad rules over many narrow ones.
+#   - Do not remove this file. Keep it up to date when ownership changes.
+#   - Keep this file in the repo root. If a CODEOWNERS also exists in
+#     .github/ or docs/, GitHub uses only the first it finds
+#     (.github/, then root, then docs/).
+#
+# Syntax: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
